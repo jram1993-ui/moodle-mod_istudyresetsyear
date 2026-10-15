@@ -1,0 +1,13 @@
+body {font-family: Arial;}
+h2 {
+  font-size: 150%;
+  text-align: center;
+  background-color: #FFBBAA;
+  padding: 6px 0px 6px 0px;
+}
+h5 {
+  font-size: 120%;
+}
+.mydiv {
+  width: 800px;
+}

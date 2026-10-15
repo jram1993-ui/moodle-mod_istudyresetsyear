@@ -1,0 +1,38 @@
+body {font-family: Arial;}
+
+table {
+	width: 600px;
+}
+table, td {
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	border-top: 1px solid #999;
+	border-left: 1px solid #999;
+	border-right: 1px solid #999;
+	border-bottom: 1px solid #999;
+	position: left;
+}
+th {
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+  border-top: 1px solid #999;
+  border-left: 1px solid #999;
+  border-right: 1px solid #999;
+  border-bottom: 1px solid #999;
+  background-color: #c3e6e5;
+}
+h3 {
+  color: black;
+  text-align: center;
+}
+h4 {
+  color: black;
+  text-align: center;
+}
+/* Formating for Moodle forms */
+.col-md-9 {
+	flex-grow: 0;
+	flex-shrink: 0;
+	flex-basis: 100%;
+	max-width: 100%;
+}
